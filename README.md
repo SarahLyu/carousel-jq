@@ -1,6 +1,6 @@
 # carousel-jq
 ## 介绍
-swiper.js太庞大了，项目中改的一个贼拉简单的基于jQuery的轮播组件，保留以备用
+swiper.js太庞大了，改了一个贼拉简单的基于jQuery的轮播组件，保留以备用
 
 ## 初始化
 ```javascript
